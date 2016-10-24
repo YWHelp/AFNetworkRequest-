@@ -1,0 +1,7 @@
+ platform :ios, '8.0'
+
+target 'AFNetworkRequest封装' do
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'MBProgressHUD'
+end
